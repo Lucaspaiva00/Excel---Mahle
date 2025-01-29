@@ -4,7 +4,7 @@
 #### Conhecimentos:
 - 1.2.  Estatísticas 
 - 1.2.1.  Contases 
-- 1.2.2.  Médiase
+- 1.2.2.  Médiases 
 
 ### Exercícios práticos para explorar as funções estatísticas CONT.SES e MÉDIASES no Excel:
 
