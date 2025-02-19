@@ -38,3 +38,9 @@ Descrição: Calcular a média das vendas realizadas em janeiro.
 
 ```
 
+## Conhecimentos - Tabelas e gráficos dinâmicos:
+- 6.1. Criação de tabelas dinâmicas
+- 6.1.1. Manipulação de campos
+- 6.1.2. Campos calculados
+- 6.1.3. Segmentos de dados
+- 6.2. Gráficos Dinâmicos
